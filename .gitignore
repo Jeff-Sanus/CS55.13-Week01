@@ -129,5 +129,5 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-.replit
-.replit.nix
+#replit
+#replit.nix
